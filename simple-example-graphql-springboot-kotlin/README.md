@@ -12,6 +12,7 @@ Different projects about:
 - Java 17
 - Springboot 3
 - Kotlin 1.7
+- GraphQL
 
 
 
