@@ -14,7 +14,5 @@ Different projects about:
 - Kotlin 1.7
 - GraphQL
 
-
-
 ## Development Prerequisites
 - Intellij IDEA
