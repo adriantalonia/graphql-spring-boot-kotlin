@@ -1,6 +1,7 @@
 # GraphQl With Spring Boot Kotlin
 
 Different projects about:
+
 - Graphql with spring boot and how to create graphql application with easy steps
 
 ## Authors
