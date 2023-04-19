@@ -2,7 +2,7 @@ package com.graph.example.query
 
 import org.springframework.graphql.data.method.annotation.QueryMapping
 import org.springframework.stereotype.Controller
-import java.util.*
+import java.util.UUID
 
 @Controller
 class PostResolver {
